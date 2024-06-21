@@ -44,3 +44,15 @@ h3{
     margin-bottom: 10px;
     font-family: "Prompt";
 }
+
+.expi3 {
+    text-align: center;
+    color: #ed6398;
+    border: solid rgb(59, 190, 219);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+    font-family: "Prompt";
+}
