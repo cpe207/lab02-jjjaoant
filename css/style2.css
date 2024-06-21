@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(211, 225, 238);
+}
+
+.center-header {
+    text-align: center;
+    color: rgb(219, 128, 204);
+}
+
+.bar{
+    text-align: center;
+}
+.expi {
+    text-align: center;
+    color: #ed6398;
+    border: solid rgb(59, 190, 219);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+    font-family: "Prompt";
+    
+}
+
+h2{
+    text-align: center;
+    color: rgb(214, 93, 93);
+}
+
+h3{
+    text-align: center;
+   color: rgb(152, 88, 63);
+}
+
+.expi2 {
+    text-align: center;
+    color: #ed6398;
+    border: solid rgb(59, 190, 219);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+    font-family: "Prompt";
+}

@@ -7,32 +7,23 @@ body{
     color: rgb(219, 128, 204);
 }
 
-h3{
-    text-align: center;
-    color: rgb(147, 108, 156);
-}
-
 .bar{
     text-align: center;
 }
 
-.name{
+h2{
     text-align: center;
-    color: rgb(219, 128, 204);
+    color: rgb(241, 120, 209);
 }
 
-.Skill {
+.contact{
     text-align: center;
-    color: rgb(178, 152, 107);
-    border: solid rgb(36, 76, 164);
+    color: rgb(143, 15, 169);
+    border: solid rgb(237, 88, 190);
     width: 500px;
     margin-left: auto;
     margin-right: auto;
     padding: 1rem;
     margin-bottom: 10px;
-}
-
-.sakil{
-    text-align: center;
-    color: rgb(241, 130, 130);
+    font-family: "Prompt";
 }
